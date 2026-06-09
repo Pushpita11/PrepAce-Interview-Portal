@@ -16,11 +16,3 @@ backend/src/main/resources/application.properties
 
 # Logs
 *.log
-frontend/node_modules/
-frontend/src/node_modules/
-backend/build/
-backend/.gradle/
-.idea/
-.vscode/
-*.iml
-backend/src/main/resources/application.properties
