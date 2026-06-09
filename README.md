@@ -52,6 +52,32 @@ The platform provides category-wise interview questions, mock tests, performance
 * AI Interview Answer Evaluator
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+### 📚 Questions Page
+
+![Questions](screenshots/questions.png)
+
+### 🎯 Mock Test Module
+
+![Mock Test](screenshots/mocktest.png)
+
+### 📊 Analytics Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 🤖 AI Question Generator
+
+![AI Questions](screenshots/aiquestions.png)
+
+### 🎤 AI Interview Evaluator
+
+![AI Interview](screenshots/aiinterview.png)
+
 
 ## 🛠️ Tech Stack
 
